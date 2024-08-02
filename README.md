@@ -47,5 +47,3 @@ Każda wykonywana w danej chwili operacja jest oznaczona na czerwono.
 7. **Monitorowanie logów SSH:**
    - Wyciąga z logów systemowych wszystkie operacje użytkowników korzystających z SSH.
 
-
-```
